@@ -1,4 +1,4 @@
-package zhdan.ruslan.hippodrome;
+package hippodrome;
 import java.util.ArrayList;
 
 public class Hippodrome

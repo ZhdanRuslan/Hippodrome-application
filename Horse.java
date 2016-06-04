@@ -1,4 +1,4 @@
-package zhdan.ruslan.hippodrome;
+package hippodrome;
 
 public class Horse
 {
