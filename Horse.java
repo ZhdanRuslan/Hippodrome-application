@@ -6,11 +6,11 @@ public class Horse
     private double speed;
     private double distance;
 
-    public Horse(String name, double speed, double distance)
+    public Horse(String n, double s, double d)
     {
-        this.name = name;
-        this.speed = speed;
-        this.distance = distance;
+        name = n;
+        speed = s;
+        distance = d;
     }
 
     public String getName()

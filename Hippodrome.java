@@ -14,9 +14,9 @@ public class Hippodrome
     public static void main(String[] args)
     {
         game = new Hippodrome();
-        game.getHorses().add(new Horse("Grom", 3, 0));
-        game.getHorses().add(new Horse("Veter", 3, 0));
-        game.getHorses().add(new Horse("Molnia", 3, 0));
+        game.getHorses().add(new Horse("NameOne", 3, 0));
+        game.getHorses().add(new Horse("NameTwo", 3, 0));
+        game.getHorses().add(new Horse("NameThree", 3, 0));
 
         game.run();
         game.printWinner();
