@@ -1,10 +1,6 @@
 package zhdan.ruslan.hippodrome;
-
 import java.util.ArrayList;
 
-/**
- * Created by Ruslan Zhdan on 27.01.2016.
- */
 public class Hippodrome
 {
     private ArrayList<Horse> horses = new ArrayList<>();
